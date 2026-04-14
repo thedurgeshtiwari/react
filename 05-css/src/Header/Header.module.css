@@ -1,0 +1,17 @@
+.header{
+    background-color: blanchedalmond;
+    margin: 20px;
+    padding: 20px 10px;
+    display: flex;
+    
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+.btn{
+    background-color: rgb(219, 19, 125);
+    
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
