@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1{
+  margin: 20px;
+  padding: 40px 80px;
+  width: fit-content;
+  font-size: 100px;
+  background-color: blanchedalmond;
+}
+button{
+  margin: 20px;
+  padding: 10px;
+  background: #969bdc;
+  border-radius: 5px;
+  font-size: 20px;
+}
