@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: aqua;
+    padding: 20px 40px;
+   
+}
+.nav2{
+    display: flex;
+    gap: 10px;
+}
